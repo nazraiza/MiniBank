@@ -1,6 +1,24 @@
 # 🏦 Mini Bank Management System
 
 A full-stack web-based banking application built with Node.js, Express.js, MongoDB, and React.js (Vite).
+---
+
+## 📸 Screenshots
+
+### Customer 
+![Customer profile](screenshots/customer-profile.png)
+
+### Admin
+![admin_audit](screenshots/admin-audit-logs.png)
+
+### Transactions
+![Transactions](screenshots/officer-transactions.png)
+
+### Loan Application
+![Loan Application](screenshots/customer-loans-apply.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin.png)
 
 ---
 
